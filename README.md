@@ -20,6 +20,11 @@
 
 ### Blog posts:
 <!-- BLOG-POST-LIST:START -->
+- [Что такое CSS селекторы](https://artstroy.net/chto-takoe-css-selektory/)
+- [11 главных трендов веб-разработки в 2020–2021](https://artstroy.net/11-glavnyx-trendov-veb-razrabotki-v-2020-2021/)
+- [Тернарный оператор в настройках BAS](https://artstroy.net/ternarnyj-operator-v-nastrojkax-bas/)
+- [[Plugin]Ошибки шаблона, с моментальным оповещением в telegram .](https://artstroy.net/pluginoshibki-shablona-s-momentalnym-opoveshheniem-v-telegram/)
+- [Правила оформления файла README.MD на GITHUB](https://artstroy.net/pravila-oformleniya-fajla-readme-md-na-github/)
 <!-- BLOG-POST-LIST:END -->
 
 <details>
