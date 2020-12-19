@@ -1,5 +1,7 @@
 ### Hi there 👋, I'm Leonid
 
+![](https://komarev.com/ghpvc/?username=AZANIR&style=flat-square)
+
 ## I'm a work in  QA Automation, ZennoPoster, BASudio
 - 💪 I like to write code
 - 🥅 I am constantly learning new things
@@ -15,6 +17,10 @@
 
 <br />
 <br />
+
+### Blog posts:
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 <details>
   <summary>:zap: Statistics:</summary>
