@@ -17,7 +17,7 @@
 
 <details>
   <summary>:zap: Statistics:</summary>
-   <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AZANIR&langs_count=4" />
+   <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AZANIR&theme=tokyonight&langs_count=4" />
     <br />
     <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=AZANIR&show_icons=true&theme=tokyonight&show_icons=true" />
 </details>
