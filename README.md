@@ -2,7 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=AZANIR&style=flat-square)
 
-## I'm a work in  QA Automation, ZennoPoster, BASudio
+## I'm a work in  QA Automation (js typescript), ZennoPoster, BASudio
 - 💪 I like to write code
 - 🥅 I am constantly learning new things
 - ⚡ I love writing an article for https://artstroy.net/
