@@ -21,11 +21,11 @@
 
 ### Blog posts:
 <!-- BLOG-POST-LIST:START -->
+- [Шпаргалка по Postman](https://artstroy.net/shpargalka-po-postman/)
 - [Управление версиями Node.js с помощью nvm в Windows](https://artstroy.net/upravlenie-versiyami-node-js-s-pomoshhyu-nvm-v-windows/)
 - [Что такое CSS селекторы](https://artstroy.net/chto-takoe-css-selektory/)
 - [11 главных трендов веб-разработки в 2020–2021](https://artstroy.net/11-glavnyx-trendov-veb-razrabotki-v-2020-2021/)
 - [Тернарный оператор в настройках BAS](https://artstroy.net/ternarnyj-operator-v-nastrojkax-bas/)
-- [[Plugin]Ошибки шаблона, с моментальным оповещением в telegram .](https://artstroy.net/pluginoshibki-shablona-s-momentalnym-opoveshheniem-v-telegram/)
 <!-- BLOG-POST-LIST:END -->
 
 <details>
