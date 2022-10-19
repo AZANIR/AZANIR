@@ -28,7 +28,7 @@
 <img align="left" alt="Node.js" width="26px" src="https://cdn-icons-png.flaticon.com/512/5968/5968322.png" />
 <img align="left" alt="WebdriwerIO" width="26px" src="https://raw.githubusercontent.com/webdriverio/webdriverio-schematics/HEAD/.github/assets/logo.png" />
 <img align="left" alt="Playwright" width="26px" src="https://playwright.dev/img/playwright-logo.svg" />
-<img align="left" alt="Cypress" width="26px" src="https://pics.freeicons.io/uploads/icons/png/3556671901536211770-512.png" />
+<img align="left" alt="Cypress" width="26px" src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/a6526a9b865babf8d661779a5d1fff67672fce89/icons/file_type_cypress.svg" />
 <img align="left" alt="Postman" width="26px" src="https://cdn.icon-icons.com/icons2/3053/PNG/512/postman_alt_macos_bigsur_icon_189814.png" />
 <br />
 <br />
