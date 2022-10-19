@@ -5,7 +5,13 @@
 ## I'm a work in  QA Automation, ZennoPoster, BASudio
 - 💪 I like to write code
 - 🥅 I am constantly learning new things
+- 👀 I’m interested difficult tasks
 - ⚡ I love writing an article for https://artstroy.net/
+
+### 📫 How to reach me:
+
+[<img height="32" width="32" src="https://cdn-icons-png.flaticon.com/512/906/906377.png" />](https://t.me/AzaniR)
+&nbsp;&nbsp;
 ### Languages and Tools:
 
 <img align="left" alt="C#" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" />
@@ -17,6 +23,14 @@
 
 <br />
 <br />
+---
+
+### :zap: Recent Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+---
 
 ### Blog posts:
 <!-- BLOG-POST-LIST:START -->
