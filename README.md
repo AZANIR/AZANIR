@@ -12,18 +12,27 @@
 
 [<img height="32" width="32" src="https://cdn-icons-png.flaticon.com/512/906/906377.png" />](https://t.me/AzaniR)
 &nbsp;&nbsp;
+[<img height="32" width="32" src="https://cdn-icons-png.flaticon.com/512/1377/1377213.png" />](https://www.linkedin.com/in/azanir/)
+&nbsp;&nbsp;
+[<img height="32" width="32" src="https://cdn-icons-png.flaticon.com/512/3670/3670032.png" />](https://www.facebook.com/pavlenkoillai)
+&nbsp;&nbsp;
 ### Languages and Tools:
 
-<img align="left" alt="C#" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+<img align="left" alt="JavaScript" width="26px" src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" />
+<img align="left" alt="Python" width="26px" src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" />
+<img align="left" alt="Java" width="26px" src="https://cdn-icons-png.flaticon.com/512/919/919854.png" />
+<img align="left" alt="C#" width="26px" src="https://img.icons8.com/color/344/c-sharp-logo-2.png" />
+<img align="left" alt="HTML5" width="26px" src="https://cdn-icons-png.flaticon.com/512/174/174854.png" />
+<img align="left" alt="CSS3" width="26px" src="https://cdn-icons-png.flaticon.com/512/732/732190.png" />
+<img align="left" alt="Visual Studio Code" width="26px" src="https://code.visualstudio.com/assets/images/code-stable.png" />
+<img align="left" alt="Node.js" width="26px" src="https://cdn-icons-png.flaticon.com/512/5968/5968322.png" />
+<img align="left" alt="WebdriwerIO" width="26px" src="https://raw.githubusercontent.com/webdriverio/webdriverio-schematics/HEAD/.github/assets/logo.png" />
+<img align="left" alt="Playwright" width="26px" src="https://playwright.dev/img/playwright-logo.svg" />
+<img align="left" alt="Cypress" width="26px" src="https://pics.freeicons.io/uploads/icons/png/3556671901536211770-512.png" />
+<img align="left" alt="Postman" width="26px" src="https://cdn.icon-icons.com/icons2/3053/PNG/512/postman_alt_macos_bigsur_icon_189814.png" />
+<br />
+<br />
 
-<br />
-<br />
 ---
 
 ### :zap: Recent Activity
