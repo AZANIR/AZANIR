@@ -16,3 +16,4 @@ jobs:
           repository: ${{ github.repository }}
           retain_days: 365
           keep_minimum_runs: 6
+          delete_workflow_pattern: 
