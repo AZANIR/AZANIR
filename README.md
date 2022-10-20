@@ -38,6 +38,8 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#4](https://github.com/AZANIR/cypress-cucumber/pull/4) in [AZANIR/cypress-cucumber](https://github.com/AZANIR/cypress-cucumber)
+2. 💪 Opened PR [#4](https://github.com/AZANIR/cypress-cucumber/pull/4) in [AZANIR/cypress-cucumber](https://github.com/AZANIR/cypress-cucumber)
 <!--END_SECTION:activity-->
 
 ---
