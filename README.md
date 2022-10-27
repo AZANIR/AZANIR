@@ -5,17 +5,23 @@
 ## I'm a work in  QA Automation, QA manual, Zennoposter, BAStudio, js, typescript, java, c#, web scrapping, webdriverio, cypress
 - 💪 I like to write code
 - 🥅 I am constantly learning new things
-- 👀 I’m interested difficult tasks
+- 👀 I’m interested in difficult tasks
 - ⚡ I love writing an article for https://artstroy.net/
 
-### 📫 How to reach me:
-
+<h4 align="center">
+  📫 Let's Connect and have a Chat!💬
+</h1>
+<p align="center">
 [<img height="32" width="32" src="https://cdn-icons-png.flaticon.com/512/906/906377.png" />](https://t.me/AzaniR)
 &nbsp;&nbsp;
 [<img height="32" width="32" src="https://cdn-icons-png.flaticon.com/512/1377/1377213.png" />](https://www.linkedin.com/in/azanir/)
 &nbsp;&nbsp;
-[<img height="32" width="32" src="https://cdn-icons-png.flaticon.com/512/3670/3670032.png" />](https://www.facebook.com/pavlenkoillai)
+[<img height="32" width="32" src="https://cdn-icons-png.flaticon.com/512/3670/3670032.png" />](https://www.facebook.com/leonid.mayevsky)
 &nbsp;&nbsp;
+[<img height="32" width="32" src="https://cdn-icons-png.flaticon.com/512/3670/3670127.png" />](https://twitter.com/eleoneks)
+&nbsp;&nbsp;
+</p>
+
 ### Languages and Tools:
 
 <img align="left" alt="JavaScript" width="26px" src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" />
