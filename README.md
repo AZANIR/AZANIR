@@ -82,6 +82,8 @@ Proficient in creating and executing test cases, creating bug reports using JIRA
 
 <a href="https://codetrace.com/users/AZANIR"><img src="https://codetrace.com/widget/AZANIR" width="220" height="50" /></a>
 
+### Donate
+___
 <a href="https://www.buymeacoffee.com/AZANIR" rel="nofollow">
       <img src="https://camo.githubusercontent.com/87ad997db06103b8ac1dd5f22e60abbc0c597c5e4bd7c5b5301b90e4b9a0501f/68747470733a2f2f63646e2e6275796d6561636f666665652e636f6d2f627574746f6e732f64656661756c742d7265642e706e67" alt="Buy Me A Coffee" height="40" width="170" data-canonical-src="https://cdn.buymeacoffee.com/buttons/default-red.png" style="max-width: 100%;">
     </a>
