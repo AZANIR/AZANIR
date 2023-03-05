@@ -52,7 +52,6 @@ Proficient in creating and executing test cases, creating bug reports using JIRA
 <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg" title="Jira" alt="Jira" width="30" height="30"/>&nbsp
 </div>
 <br />
-<br />
 
 ---
 
@@ -80,3 +79,9 @@ Proficient in creating and executing test cases, creating bug reports using JIRA
     <br />
     <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=AZANIR&show_icons=true&theme=tokyonight&show_icons=true" />
 </details>
+
+<a href="https://codetrace.com/users/AZANIR"><img src="https://codetrace.com/widget/AZANIR" width="220" height="50" /></a>
+
+<a href="https://www.buymeacoffee.com/AZANIR" rel="nofollow">
+      <img src="https://camo.githubusercontent.com/87ad997db06103b8ac1dd5f22e60abbc0c597c5e4bd7c5b5301b90e4b9a0501f/68747470733a2f2f63646e2e6275796d6561636f666665652e636f6d2f627574746f6e732f64656661756c742d7265642e706e67" alt="Buy Me A Coffee" height="40" width="170" data-canonical-src="https://cdn.buymeacoffee.com/buttons/default-red.png" style="max-width: 100%;">
+    </a>
