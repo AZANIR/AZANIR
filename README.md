@@ -33,22 +33,24 @@ Proficient in creating and executing test cases, creating bug reports using JIRA
 
 ### Languages and Tools:
 
-<img alt="Git" width="30" height="30" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" />
-<img alt="JavaScript" width="30" height="30" src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" />
-<img alt="Python" width="30" height="30" src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" />
-<img alt="Java" width="30" height="30" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" />
-<img alt="C#" width="30" height="30" src="https://img.icons8.com/color/344/c-sharp-logo-2.png" />
-<img alt="HTML5" width="30" height="30" src="https://cdn-icons-png.flaticon.com/512/174/174854.png" />
-<img alt="CSS3" width="30" height="30" src="https://cdn-icons-png.flaticon.com/512/732/732190.png" />
-<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="30" height="30" />
-<img alt="Visual Studio Code" width="30" height="30" src="https://code.visualstudio.com/assets/images/code-stable.png" />
-<img alt="Node.js" width="30" height="30" src="https://cdn-icons-png.flaticon.com/512/5968/5968322.png" />
-<img alt="WebdriwerIO" width="30" height="30" src="https://raw.githubusercontent.com/webdriverio/webdriverio-schematics/HEAD/.github/assets/logo.png" />
-<img alt="Playwright" width="30" height="30" src="https://playwright.dev/img/playwright-logo.svg" />
-<img alt="Cypress" width="30" height="30" src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/a6526a9b865babf8d661779a5d1fff67672fce89/icons/file_type_cypress.svg" />
-<img alt="Postman" width="30" height="30" src="https://cdn.icon-icons.com/icons2/3053/PNG/512/postman_alt_macos_bigsur_icon_189814.png" />
-<img src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" alt="Markdown" width="30" height="30" />
-<img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg" title="Jira" alt="Jira" width="30" height="30"/>
+<div>
+<img alt="Git" width="30" height="30" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" />&nbsp
+<img alt="JavaScript" width="30" height="30" src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" />&nbsp
+<img alt="Python" width="30" height="30" src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" />&nbsp
+<img alt="Java" width="30" height="30" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" />&nbsp
+<img alt="C#" width="30" height="30" src="https://img.icons8.com/color/344/c-sharp-logo-2.png" />&nbsp
+<img alt="HTML5" width="30" height="30" src="https://cdn-icons-png.flaticon.com/512/174/174854.png" />&nbsp
+<img alt="CSS3" width="30" height="30" src="https://cdn-icons-png.flaticon.com/512/732/732190.png" />&nbsp
+<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="30" height="30" />&nbsp
+<img alt="Visual Studio Code" width="30" height="30" src="https://code.visualstudio.com/assets/images/code-stable.png" />&nbsp
+<img alt="Node.js" width="30" height="30" src="https://cdn-icons-png.flaticon.com/512/5968/5968322.png" />&nbsp
+<img alt="WebdriwerIO" width="30" height="30" src="https://raw.githubusercontent.com/webdriverio/webdriverio-schematics/HEAD/.github/assets/logo.png" />&nbsp
+<img alt="Playwright" width="30" height="30" src="https://playwright.dev/img/playwright-logo.svg" />&nbsp
+<img alt="Cypress" width="30" height="30" src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/a6526a9b865babf8d661779a5d1fff67672fce89/icons/file_type_cypress.svg" />&nbsp
+<img alt="Postman" width="30" height="30" src="https://cdn.icon-icons.com/icons2/3053/PNG/512/postman_alt_macos_bigsur_icon_189814.png" />&nbsp
+<img src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" alt="Markdown" width="30" height="30" />&nbsp
+<img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg" title="Jira" alt="Jira" width="30" height="30"/>&nbsp
+</div>
 <br />
 <br />
 
