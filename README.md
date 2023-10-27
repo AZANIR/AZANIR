@@ -2,7 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=AZANIR&style=flat-square)
 
-## I'm a work in  QA Automation, QA manual, js, typescript, java, c#, web scrapping, Zennoposter, BAStudio
+## I'm working in  QA Automation, QA manual, js, typescript, java, c#, web scrapping, Zennoposter, BAStudio
 
 Experienced QA Automation Engineer with 6+ years in software testing and development. Strong problem-solving skills, critical thinking, and the ability to quickly adapt to technological changes. Possess expertise in full-cycle testing, including requirements analysis, test artifact creation, and automation test development.
 
