@@ -2,11 +2,11 @@
 
 ![](https://komarev.com/ghpvc/?username=AZANIR&style=flat-square)
 
-## I'm working in  QA Automation, QA manual, js, typescript, java, c#, web scrapping, Zennoposter, BAStudio
+## I am involved in QA Automation and Manual Testing, and proficient in JavaScript, TypeScript, Java, and C#. I also have experience in web scraping using tools like Zennoposter and BAStudio.
 
-Experienced QA Automation Engineer with 6+ years in software testing and development. Strong problem-solving skills, critical thinking, and the ability to quickly adapt to technological changes. Possess expertise in full-cycle testing, including requirements analysis, test artifact creation, and automation test development.
+I am a seasoned QA Automation Engineer with over 6 years of experience in software testing and development. I possess strong problem-solving skills, critical thinking abilities, and a knack for adapting quickly to technological changes. My expertise lies in the entire testing lifecycle, encompassing requirements analysis, test artifact creation, and the development of automation tests.
 
-Proficient in creating and executing test cases, creating bug reports using JIRA, and working with relational and non-relational databases such as SQL, Postgres SQL, and Mongo DB. Experienced in automation UI testing using Selenium/Selenide with JavaScript, TypeScript, Python, and Java, and API testing using Refit/RestSharp/Rest Assured with JavaScript and Postman. Familiar with PlayWright, WebdriverIO, Cypress, RobotFramework, PyTest, and JUnit frameworks. Also familiar with source control systems like GitHub and GitLab and bug tracking systems like JIRA and TestRail e etc.
+I am adept at crafting and executing test cases, generating bug reports using JIRA, and working with both relational and non-relational databases such as SQL, Postgres SQL, and MongoDB. My automation skills extend to UI testing using Selenium/Selenide with JavaScript, TypeScript, Python, and Java, as well as API testing using Refit/RestSharp/Rest Assured with JavaScript and Postman. I am familiar with frameworks like PlayWright, WebdriverIO, Cypress, RobotFramework, PyTest, and JUnit. Additionally, I have experience with source control systems like GitHub and GitLab, and bug tracking systems such as JIRA and TestRail.
 
 - 💪 I like to write code
 - 🥅 I am constantly learning new things
