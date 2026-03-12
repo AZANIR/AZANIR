@@ -2,11 +2,13 @@
 
 ![](https://komarev.com/ghpvc/?username=AZANIR&style=flat-square)
 
-## I am involved in QA Automation and Manual Testing, and proficient in JavaScript, TypeScript, Java, and C#. I also have experience in web scraping using tools like Zennoposter and BAStudio.
+## I am a Senior QA Automation Engineer specializing in test framework architecture and automation across fintech, healthcare, media, and communications domains. Proficient in TypeScript, JavaScript, Python, Java, and C#.
 
-I am a seasoned QA Automation Engineer with over 6 years of experience in software testing and development. I possess strong problem-solving skills, critical thinking abilities, and a knack for adapting quickly to technological changes. My expertise lies in the entire testing lifecycle, encompassing requirements analysis, test artifact creation, and the development of automation tests.
+I am a seasoned QA Automation Engineer with over 10 years of experience in software testing and quality assurance. I possess strong problem-solving skills, critical thinking abilities, and a knack for adapting quickly to technological changes. My expertise spans the entire testing lifecycle — from requirements analysis and test strategy design to building scalable automation frameworks from scratch.
 
-I am adept at crafting and executing test cases, generating bug reports using JIRA, and working with both relational and non-relational databases such as SQL, Postgres SQL, and MongoDB. My automation skills extend to UI testing using Selenium/Selenide with JavaScript, TypeScript, Python, and Java, as well as API testing using Refit/RestSharp/Rest Assured with JavaScript and Postman. I am familiar with frameworks like PlayWright, WebdriverIO, Cypress, RobotFramework, PyTest, and JUnit. Additionally, I have experience with source control systems like GitHub and GitLab, and bug tracking systems such as JIRA and TestRail.
+I am adept at architecting E2E, integration, regression, API, UI, mobile, and load/performance test suites, as well as generating structured bug reports using JIRA and TestRail. I work with both relational and non-relational databases such as PostgreSQL, MySQL, and MongoDB. My automation skills extend to UI and API testing using Playwright, WebDriver.IO, Cypress, Robot Framework, and Pytest with TypeScript, JavaScript, and Python. I also have hands-on experience with security testing using OWASP ZAP and Burp Suite, and performance/load testing with Locust and k6.
+
+I design and maintain CI/CD quality gates using GitHub Actions, GitLab CI, CircleCI, and Azure DevOps, and set up Allure dashboards for exec-level quality reporting. Additionally, I have experience with Docker, Docker-Compose, Tilt, and modern DevOps tooling. I serve as a QA Automation (JavaScript) Mentor at Hillel IT School and hold Jr Penetration Tester and Cyber Security 101 certificates from TryHackMe. I also have experience in web automation and scraping using tools like Zennoposter and BAStudio.
 
 - 💪 I like to write code
 - 🥅 I am constantly learning new things
