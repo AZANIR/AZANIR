@@ -48,9 +48,15 @@ Assertion suites in one `plune.yaml` — run locally with the CLI, gate every pu
 
 ## ⬡ Writing
 
-<!-- BLOG-POST-LIST:START -->- [How I&#39;d Move into AI Engineering in 2026: From Automation to Reliable Systems](https://artstroy.net/articles/how_i_would_move_into_ai_engineering_in_2026/) — <sub>Jul 19, 2026</sub><br>- [RAG Is No Longer Enough: How OKF Changes Agent Knowledge](https://artstroy.net/articles/okf_rag_research/) — <sub>Jul 16, 2026</sub><br>- [Why Learn Programming in the Age of AI?](https://artstroy.net/articles/why_learn_programming_in_ai_era/) — <sub>Jul 13, 2026</sub><br>- [The Autonomous QA Cycle: LangGraph, Langfuse, and a Custom LLM Judge](https://artstroy.net/articles/cairn_autonomous_qa_cycle/) — <sub>Jul 10, 2026</sub><br>- [AI Agent Skills Promise 65% Savings. A Benchmark Found 8.5%.](https://artstroy.net/articles/agent_productivity_myths/) — <sub>Jul 8, 2026</sub><br><!-- BLOG-POST-LIST:END -->
+QA automation, AI agents, and security-minded delivery on [artstroy.net](https://artstroy.net).
 
-→ [artstroy.net](https://artstroy.net/articles/1) · QA automation, AI workflows, pentesting
+<!-- BLOG-POST-LIST:START -->
+- [How I'd Move into AI Engineering in 2026: From Automation to Reliable Systems](https://artstroy.net/articles/how_i_would_move_into_ai_engineering_in_2026/) — Jul 19, 2026
+- [RAG Is No Longer Enough: How OKF Changes Agent Knowledge](https://artstroy.net/articles/okf_rag_research/) — Jul 16, 2026
+- [Why Learn Programming in the Age of AI?](https://artstroy.net/articles/why_learn_programming_in_ai_era/) — Jul 13, 2026
+- [The Autonomous QA Cycle: LangGraph, Langfuse, and a Custom LLM Judge](https://artstroy.net/articles/cairn_autonomous_qa_cycle/) — Jul 10, 2026
+- [AI Agent Skills Promise 65% Savings. A Benchmark Found 8.5%.](https://artstroy.net/articles/agent_productivity_myths/) — Jul 8, 2026
+<!-- BLOG-POST-LIST:END -->
 
 ---
 

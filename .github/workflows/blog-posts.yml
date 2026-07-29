@@ -19,6 +19,6 @@ jobs:
         with:
           feed_list: "https://artstroy.net/rss.xml"
           max_post_count: 5
-          template: "- [$title]($url) — <sub>$date</sub><br>"
+          template: "\n- [$title]($url) — $date"
           date_format: "mmm d, yyyy"
           commit_message: "chore: sync latest blog posts"
