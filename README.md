@@ -56,6 +56,7 @@ QA automation, AI agents, and security-minded delivery on [artstroy.net](https:/
 - [Why Learn Programming in the Age of AI?](https://artstroy.net/articles/why_learn_programming_in_ai_era/) — Jul 13, 2026
 - [The Autonomous QA Cycle: LangGraph, Langfuse, and a Custom LLM Judge](https://artstroy.net/articles/cairn_autonomous_qa_cycle/) — Jul 10, 2026
 - [AI Agent Skills Promise 65% Savings. A Benchmark Found 8.5%.](https://artstroy.net/articles/agent_productivity_myths/) — Jul 8, 2026
+
 <!-- BLOG-POST-LIST:END -->
 
 ---
