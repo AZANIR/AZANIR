@@ -1,0 +1,24 @@
+name: Sync latest blog posts
+
+on:
+  schedule:
+    - cron: "0 6 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Pull posts from artstroy.net RSS
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: "https://artstroy.net/rss.xml"
+          max_post_count: 5
+          template: "- [$title]($url) — <sub>$date</sub><br>"
+          date_format: "mmm d, yyyy"
+          commit_message: "chore: sync latest blog posts"

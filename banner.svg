@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" width="1200" height="300" role="img" aria-label="Leonid Maievskyi, Senior QA Automation Engineer">
+  <rect width="1200" height="300" rx="14" fill="#0A0E16"/>
+  <rect x="0.5" y="0.5" width="1199" height="299" rx="14" fill="none" stroke="#1C2635"/>
+
+  <g opacity="0.35" stroke="#2DD4BF" fill="none" stroke-width="1">
+    <path d="M980 60 L1022 84 L1022 132 L980 156 L938 132 L938 84 Z"/>
+    <path d="M1060 106 L1102 130 L1102 178 L1060 202 L1018 178 L1018 130 Z"/>
+    <path d="M980 152 L1022 176 L1022 224 L980 248 L938 224 L938 176 Z"/>
+  </g>
+  <g opacity="0.12" stroke="#2DD4BF" fill="none" stroke-width="1">
+    <path d="M900 106 L942 130 L942 178 L900 202 L858 178 L858 130 Z"/>
+    <path d="M820 60 L862 84 L862 132 L820 156 L778 132 L778 84 Z"/>
+    <path d="M820 152 L862 176 L862 224 L820 248 L778 224 L778 176 Z"/>
+  </g>
+
+  <rect x="72" y="64" width="3" height="42" fill="#2DD4BF"/>
+
+  <text x="94" y="82" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="15" letter-spacing="3" fill="#2DD4BF">QA · AI · ENGINEERING</text>
+  <text x="94" y="102" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14" fill="#64748B">github.com/AZANIR</text>
+
+  <text x="72" y="168" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="54" font-weight="600" fill="#E6EDF3">Leonid Maievskyi</text>
+  <text x="72" y="206" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="24" fill="#94A3B8">Senior QA Automation Engineer</text>
+
+  <line x1="72" y1="238" x2="700" y2="238" stroke="#1C2635" stroke-width="1"/>
+
+  <text x="72" y="266" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14" fill="#64748B">10+ yrs &#160;·&#160; building Cairn &amp; Plune &#160;·&#160; 1 500+ automated tests &#160;·&#160; Ukraine / Remote</text>
+</svg>
