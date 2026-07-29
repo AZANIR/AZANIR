@@ -56,8 +56,8 @@ Assertion suites in one `plune.yaml` — run locally with the CLI, gate every pu
 ---
 
 <div align="center">
-  <img height="140" src="https://github-readme-stats.vercel.app/api?username=AZANIR&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0A0E16&icon_color=2DD4BF&title_color=2DD4BF" alt="GitHub stats">
-  <img height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AZANIR&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&bg_color=0A0E16&title_color=2DD4BF" alt="Top languages">
+  <img height="140" src="https://github-readme-stats.shion.dev/api?username=AZANIR&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0A0E16&icon_color=2DD4BF&title_color=2DD4BF" alt="GitHub stats">
+  <img height="140" src="https://github-readme-stats.shion.dev/api/top-langs/?username=AZANIR&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&bg_color=0A0E16&title_color=2DD4BF" alt="Top languages">
 </div>
 
 <div align="center">
