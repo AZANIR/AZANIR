@@ -51,11 +51,11 @@ Assertion suites in one `plune.yaml` — run locally with the CLI, gate every pu
 QA automation, AI agents, and security-minded delivery on [artstroy.net](https://artstroy.net).
 
 <!-- BLOG-POST-LIST:START -->
+- [A Local AI QA Agent: Ollama, LibreChat, and Playwright MCP](https://artstroy.net/articles/local_ai_qa_engineer_docker_ollama/) — Aug 24, 2026
 - [Playwright 1.62.1 in Practice: The Changes That Matter for Automation QA](https://artstroy.net/articles/playwright_1_62_1_whats_new_automation_qa/) — Aug 3, 2026
 - [How I'd Move into AI Engineering in 2026: From Automation to Reliable Systems](https://artstroy.net/articles/how_i_would_move_into_ai_engineering_in_2026/) — Jul 19, 2026
 - [RAG Is No Longer Enough: How OKF Changes Agent Knowledge](https://artstroy.net/articles/okf_rag_research/) — Jul 16, 2026
 - [Why Learn Programming in the Age of AI?](https://artstroy.net/articles/why_learn_programming_in_ai_era/) — Jul 13, 2026
-- [The Autonomous QA Cycle: LangGraph, Langfuse, and a Custom LLM Judge](https://artstroy.net/articles/cairn_autonomous_qa_cycle/) — Jul 10, 2026
 
 <!-- BLOG-POST-LIST:END -->
 
