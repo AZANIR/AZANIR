@@ -51,11 +51,11 @@ Assertion suites in one `plune.yaml` — run locally with the CLI, gate every pu
 QA automation, AI agents, and security-minded delivery on [artstroy.net](https://artstroy.net).
 
 <!-- BLOG-POST-LIST:START -->
+- [The Agent Bug That Breaks Nothing and Costs the Most](https://artstroy.net/articles/the_bug_that_breaks_nothing/) — Sep 1, 2026
 - [Near-Zero Hallucination Costs Half Your Answers](https://artstroy.net/articles/rag_at_scale_what_it_costs/) — Aug 30, 2026
 - [Your RAG Leak Test Is Green and Your Access Control Is Broken](https://artstroy.net/articles/your_rag_leak_test_is_green/) — Aug 29, 2026
 - [Four Ways Agent Context Breaks, and How to Detect Each One](https://artstroy.net/articles/context_engineering_for_agents/) — Aug 27, 2026
 - [Three Guards Every Agent Loop Needs, and How Each One Fails](https://artstroy.net/articles/three_guards_every_agent_loop_needs/) — Aug 26, 2026
-- [A Local AI QA Agent: Ollama, LibreChat, and Playwright MCP](https://artstroy.net/articles/local_ai_qa_engineer_docker_ollama/) — Aug 24, 2026
 
 <!-- BLOG-POST-LIST:END -->
 
