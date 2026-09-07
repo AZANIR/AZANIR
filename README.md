@@ -51,11 +51,11 @@ Assertion suites in one `plune.yaml` — run locally with the CLI, gate every pu
 QA automation, AI agents, and security-minded delivery on [artstroy.net](https://artstroy.net).
 
 <!-- BLOG-POST-LIST:START -->
+- [Nothing Leaked. The Answer Just Disappeared.](https://artstroy.net/articles/nothing_leaked_the_answer_disappeared/) — Sep 7, 2026
 - [Your Supervisor Agent Is Probably a Switch Statement](https://artstroy.net/articles/langgraph_multi_agent_patterns/) — Sep 5, 2026
 - [Playwright 1.63: Test Locks, Visible Locators, and Better Traces](https://artstroy.net/articles/playwright_1_63_0_whats_new_automation_qa/) — Sep 5, 2026
 - [The Tool Description You Did Not Write Goes Into Your Prompt](https://artstroy.net/articles/the_tool_description_you_did_not_write/) — Sep 4, 2026
 - [The Test Pyramid Did Not Go Away When Agents Started Coding](https://artstroy.net/articles/agentic_testing_for_ai_generated_code/) — Sep 2, 2026
-- [The Agent Bug That Breaks Nothing and Costs the Most](https://artstroy.net/articles/the_bug_that_breaks_nothing/) — Sep 1, 2026
 
 <!-- BLOG-POST-LIST:END -->
 
