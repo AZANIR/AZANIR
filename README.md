@@ -51,11 +51,11 @@ Assertion suites in one `plune.yaml` — run locally with the CLI, gate every pu
 QA automation, AI agents, and security-minded delivery on [artstroy.net](https://artstroy.net).
 
 <!-- BLOG-POST-LIST:START -->
+- [When to Use an Eval Framework, and When to Build the Judge](https://artstroy.net/articles/deepeval_vs_custom_llm_judge/) — Sep 11, 2026
 - [The Bugs Only Deploying Finds](https://artstroy.net/articles/the_bugs_only_deploying_finds/) — Sep 10, 2026
 - [A Spec for an Agent Is a Test Plan in Disguise](https://artstroy.net/articles/specs_for_ai_seven_rules/) — Sep 8, 2026
 - [Nothing Leaked. The Answer Just Disappeared.](https://artstroy.net/articles/nothing_leaked_the_answer_disappeared/) — Sep 7, 2026
 - [Your Supervisor Agent Is Probably a Switch Statement](https://artstroy.net/articles/langgraph_multi_agent_patterns/) — Sep 5, 2026
-- [Playwright 1.63: Test Locks, Visible Locators, and Better Traces](https://artstroy.net/articles/playwright_1_63_0_whats_new_automation_qa/) — Sep 5, 2026
 
 <!-- BLOG-POST-LIST:END -->
 
