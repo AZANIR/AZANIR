@@ -51,11 +51,11 @@ Assertion suites in one `plune.yaml` — run locally with the CLI, gate every pu
 QA automation, AI agents, and security-minded delivery on [artstroy.net](https://artstroy.net).
 
 <!-- BLOG-POST-LIST:START -->
+- [Which Tests to Automate, and Who Actually Decides](https://artstroy.net/articles/test_automation_strategy_that_survives/) — Sep 20, 2026
 - [Less Code Is Half an Argument](https://artstroy.net/articles/less_code_is_half_an_argument/) — Sep 19, 2026
 - [Your Pipeline Config Is Your Real Test Strategy](https://artstroy.net/articles/ci_cd_is_your_test_strategy/) — Sep 17, 2026
 - [The Detector That Always Finds It Is Not a Detector](https://artstroy.net/articles/the_detector_that_always_finds_it/) — Sep 16, 2026
 - [Subagent Configuration Is Least-Privilege Design](https://artstroy.net/articles/claude_code_subagent_design/) — Sep 14, 2026
-- [Your Streaming Benchmark Measures Two Things](https://artstroy.net/articles/your_streaming_benchmark_measures_two_things/) — Sep 13, 2026
 
 <!-- BLOG-POST-LIST:END -->
 
