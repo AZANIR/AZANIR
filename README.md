@@ -51,11 +51,11 @@ Assertion suites in one `plune.yaml` — run locally with the CLI, gate every pu
 QA automation, AI agents, and security-minded delivery on [artstroy.net](https://artstroy.net).
 
 <!-- BLOG-POST-LIST:START -->
+- [Eval Vocabulary for People Who Already Test Software](https://artstroy.net/articles/eval_glossary_for_sdets/) — Sep 23, 2026
 - [Your Import List Is Not Proof That You Reused Anything](https://artstroy.net/articles/your_import_list_is_not_proof/) — Sep 22, 2026
 - [Which Tests to Automate, and Who Actually Decides](https://artstroy.net/articles/test_automation_strategy_that_survives/) — Sep 20, 2026
 - [Less Code Is Half an Argument](https://artstroy.net/articles/less_code_is_half_an_argument/) — Sep 19, 2026
 - [Your Pipeline Config Is Your Real Test Strategy](https://artstroy.net/articles/ci_cd_is_your_test_strategy/) — Sep 17, 2026
-- [The Detector That Always Finds It Is Not a Detector](https://artstroy.net/articles/the_detector_that_always_finds_it/) — Sep 16, 2026
 
 <!-- BLOG-POST-LIST:END -->
 
