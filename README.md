@@ -51,11 +51,11 @@ Assertion suites in one `plune.yaml` — run locally with the CLI, gate every pu
 QA automation, AI agents, and security-minded delivery on [artstroy.net](https://artstroy.net).
 
 <!-- BLOG-POST-LIST:START -->
+- [Agent Maturity Ladders Are Three Ladders Stacked Wrong](https://artstroy.net/articles/agent_autonomy_maturity_ladder/) — Oct 8, 2026
+- [Playwright 1.64: WebMCP, Locator.within(), and Smarter Runs](https://artstroy.net/articles/playwright_1_64_0_whats_new_automation_qa/) — Oct 8, 2026
 - [The Repo Rules That Matter Say Do Not Refactor](https://artstroy.net/articles/from_jira_ticket_to_test_pr/) — Oct 5, 2026
 - [Your Next User Cannot Be Annoyed, Only Blocked](https://artstroy.net/articles/designing_software_for_agent_users/) — Oct 2, 2026
 - [Wrong Tool Calls Are a Retrieval Problem](https://artstroy.net/articles/why_agents_pick_the_wrong_tool/) — Sep 29, 2026
-- [Driving a Browser With an Agent Is Still Specification](https://artstroy.net/articles/vibe_testing_playwright_mcp/) — Sep 26, 2026
-- [Eval Vocabulary for People Who Already Test Software](https://artstroy.net/articles/eval_glossary_for_sdets/) — Sep 23, 2026
 
 <!-- BLOG-POST-LIST:END -->
 
