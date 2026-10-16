@@ -51,11 +51,11 @@ Assertion suites in one `plune.yaml` — run locally with the CLI, gate every pu
 QA automation, AI agents, and security-minded delivery on [artstroy.net](https://artstroy.net).
 
 <!-- BLOG-POST-LIST:START -->
+- [I Put a Decision Model in a Playwright Loop. It Missed 2 of 3 Bugs](https://artstroy.net/articles/jev_playwright_decision_loop/) — Oct 16, 2026
 - [Most Agent Concepts Are Old Ideas With New Labels](https://artstroy.net/articles/agentic_engineering_vocabulary/) — Oct 14, 2026
 - [A Passing Agent Test Says Nothing About the Path It Took](https://artstroy.net/articles/agent_trajectory_verification/) — Oct 13, 2026
 - [When an Agent Misbehaves, Which Layer Broke?](https://artstroy.net/articles/harness_loop_graph_three_layers/) — Oct 11, 2026
 - [Agent Maturity Ladders Are Three Ladders Stacked Wrong](https://artstroy.net/articles/agent_autonomy_maturity_ladder/) — Oct 8, 2026
-- [Playwright 1.64: WebMCP, Locator.within(), and Smarter Runs](https://artstroy.net/articles/playwright_1_64_0_whats_new_automation_qa/) — Oct 8, 2026
 
 <!-- BLOG-POST-LIST:END -->
 
