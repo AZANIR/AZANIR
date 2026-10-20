@@ -51,11 +51,11 @@ Assertion suites in one `plune.yaml` — run locally with the CLI, gate every pu
 QA automation, AI agents, and security-minded delivery on [artstroy.net](https://artstroy.net).
 
 <!-- BLOG-POST-LIST:START -->
+- [Automate the Triage, Not the Test Writing](https://artstroy.net/articles/multi_llm_test_automation_workflows/) — Oct 20, 2026
 - [Spec Kit Writes Tasks, Not Tests: Tie Every Acceptance Criterion to One](https://artstroy.net/articles/spec_kit_acceptance_criteria/) — Oct 19, 2026
 - [Interrupting a Voice Agent Is a State Ownership Problem](https://artstroy.net/articles/realtime_voice_agent_interruptions/) — Oct 17, 2026
 - [I Put a Decision Model in a Playwright Loop. It Missed 2 of 3 Bugs](https://artstroy.net/articles/jev_playwright_decision_loop/) — Oct 16, 2026
 - [Most Agent Concepts Are Old Ideas With New Labels](https://artstroy.net/articles/agentic_engineering_vocabulary/) — Oct 14, 2026
-- [A Passing Agent Test Says Nothing About the Path It Took](https://artstroy.net/articles/agent_trajectory_verification/) — Oct 13, 2026
 
 <!-- BLOG-POST-LIST:END -->
 
