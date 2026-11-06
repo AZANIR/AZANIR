@@ -51,11 +51,11 @@ Assertion suites in one `plune.yaml` — run locally with the CLI, gate every pu
 QA automation, AI agents, and security-minded delivery on [artstroy.net](https://artstroy.net).
 
 <!-- BLOG-POST-LIST:START -->
+- [Playwright 1.65: What's New, Breaking Changes & Migration Guide](https://artstroy.net/articles/playwright_1_65_0_whats_new_automation_qa/) — Nov 6, 2026
 - [Only the Controls an Agent Cannot Decline Are Controls](https://artstroy.net/articles/agentic_devops_mcp_architecture/) — Nov 4, 2026
 - [Build an OKF Knowledge Bundle in 30 Minutes](https://artstroy.net/articles/okf_bundle_in_30_minutes/) — Nov 3, 2026
 - [A Generated Diagram Is a Claim Nobody Checks](https://artstroy.net/articles/diagrams_as_agent_output/) — Nov 1, 2026
 - [Sort Agent-Readable Files by When They Load](https://artstroy.net/articles/documents_agents_actually_read/) — Oct 29, 2026
-- [Data-Driven Tests Multiply Runs, Not Coverage](https://artstroy.net/articles/data_driven_api_testing_playwright/) — Oct 26, 2026
 
 <!-- BLOG-POST-LIST:END -->
 
