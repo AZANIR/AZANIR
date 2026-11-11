@@ -51,11 +51,11 @@ Assertion suites in one `plune.yaml` — run locally with the CLI, gate every pu
 QA automation, AI agents, and security-minded delivery on [artstroy.net](https://artstroy.net).
 
 <!-- BLOG-POST-LIST:START -->
+- [OKF, AGENTS.md, MCP, and RAG: Four Layers, One Agent](https://artstroy.net/articles/okf_agents_md_mcp_context_stack/) — Nov 11, 2026
 - [An OKF Bundle for QA: Regression Scope, Test Contracts, and Release Gates](https://artstroy.net/articles/okf_qa_knowledge_bundle/) — Nov 7, 2026
 - [Reviewing Work Whose Process You Never Saw](https://artstroy.net/articles/reviewing_work_you_did_not_watch/) — Nov 7, 2026
 - [Playwright 1.65: What's New, Breaking Changes & Migration Guide](https://artstroy.net/articles/playwright_1_65_0_whats_new_automation_qa/) — Nov 6, 2026
 - [Only the Controls an Agent Cannot Decline Are Controls](https://artstroy.net/articles/agentic_devops_mcp_architecture/) — Nov 4, 2026
-- [Build an OKF Knowledge Bundle in 30 Minutes](https://artstroy.net/articles/okf_bundle_in_30_minutes/) — Nov 3, 2026
 
 <!-- BLOG-POST-LIST:END -->
 
